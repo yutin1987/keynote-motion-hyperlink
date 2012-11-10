@@ -4,4 +4,4 @@
 
 访问本教程：[http://galeo.github.com/keynote-motion-hyperlink/](http://galeo.github.com/keynote-motion-hyperlink/)
 
-其中的CSS主题来自于[知竹轩(Yang Wu's Homepage)](http://wuyang.yangsheep.net)，我做了简单的修改。
+你可以通过[问题列表](https://github.com/galeo/keynote-motion-hyperlink/issues)来提交问题或参与交流。
