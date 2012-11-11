@@ -5,3 +5,5 @@
 访问本教程：[http://galeo.github.com/keynote-motion-hyperlink/](http://galeo.github.com/keynote-motion-hyperlink/)
 
 你可以通过[问题列表](https://github.com/galeo/keynote-motion-hyperlink/issues)来提交问题或参与交流。
+
+另外，你可以Pull Requests或者申请权限（发邮件给我）参与项目维护。
